@@ -1,11 +1,11 @@
 import React from 'react';
 
-function Nav() {
+function Contact() {
     return (
         <div>
-            <h1>Hello</h1>
+            Hello World
         </div>
     )
 }
 
-export default Nav;
+export default Contact;
